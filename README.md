@@ -55,3 +55,8 @@ The entries in issues tab (menu) at each repository represents what needs to be 
 4. Ready to Review 👀 : The assigned dev open new pull request and ready to be reviewed by project lead.
 5. Ready to Deploy ✔ : The changes are approved and ready to deploy to servers.
 6. Done 🏁 : Well, it's done. 
+
+### Labels
+
+1. BE #0052CC : Back End
+2. FE #FBCA04 : Front End
