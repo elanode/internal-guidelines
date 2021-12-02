@@ -1,3 +1,5 @@
+↖ Click me for TOC
+
 # Guidelines for Internal Maintainers
 
 > To standardize workflow across multiple repositories, please follow these guidelines before opening issue, working on the issue, or making pull requests.
