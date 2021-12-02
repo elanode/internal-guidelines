@@ -85,7 +85,7 @@ To start working on your assigned issue (*Must be in **TO DO** status first*):
 
 2. On your local project `main` branch, `git pull origin main`
 3. Create new branch, `git checkout -b [feat/fix/hotfix]/[simple-issue-name]/ELA-[issue_number]_dev_main`
-    - Example: `git checkout -b feat/landing-page/ELA-001_dev_main
+    - Example: `git checkout -b feat/landing-page/ELA-001_dev_main`
     - Notice the `dev_main`
 5. After creating `dev_main` branch, make new branch for the specific task `git checkout -b [feat/fix/hotfix]/[simple-issue-name]/ELA-[issue-number]_[simple-descriptive-task-name]`
     - Example: `git checkout -b feat/landing-page/ELA-001_banner_carousel_component`
