@@ -8,54 +8,23 @@ The entries in issues tab (menu) at each repository represents what needs to be 
 
 ### Opening Issue Steps
 
-1. The **title** should describe short explanation about the task.
+1. Create issue by using template
+
+![image](https://user-images.githubusercontent.com/46631787/144341559-7d03ab8f-6bf4-40cc-8b72-d7c9b3d467e4.png)
+
+2. The **title** should describe short explanation about the task.
 
 ![image](https://user-images.githubusercontent.com/46631787/144267594-42d9e70a-6421-4abb-bae9-15891d0d915f.png)
 
-2. Issue template : 
-
-```
-## Case 👀 
-- Product search does not work.
-
-## To Do / Expected 🔨 
-- Product should match the search input.
-
-## Notes 📝
-- [insert some additional notes]
-
-## Captures 📸
-- [insert some screenshots]
-```
-
-3. Big issue may be broken down to sub-tasks (by project leads) :
-
-```
-## Case 👀 
-- Product search does not work.
-
-## To Do / Expected 🔨
-- Product should match the search input.
-
-- [ ] Backend API search query fix
-- [ ] Frontend handle new data response
-
-## Notes 📝
-- [insert some additional notes]
-
-## Captures 📸
-- [insert some screenshots]
-```
-
-4. Add appropriate labels to the issue.
+3. Add appropriate labels to the issue.
 
 ![image](https://user-images.githubusercontent.com/46631787/144267126-c6493c6e-5545-4a80-a673-acb20020a1e6.png)
 
-5. On the projects tab on the right side of the issue. Please add the issue to **Elanode's Development Tracker** Project ‼
+4. On the projects tab on the right side of the issue. Please add the issue to **Elanode's Development Tracker** Project ‼
 
 ![image](https://user-images.githubusercontent.com/46631787/144267318-8b4c0baa-06f0-4e32-8fc6-d51b665a2bd0.png)
 
-6. Once opened and added to **Elanode's Development Tracker**, the issue will have *On Queue* status.
+5. Once opened and added to **Elanode's Development Tracker**, the issue will have *On Queue* status.
 
 ### Issues Status
 
