@@ -1,8 +1,10 @@
-↖ Click me for TOC
+↖ Click that ![image](https://user-images.githubusercontent.com/46631787/144342211-204c5f64-9386-4179-ab33-538b87323939.png) for TOC
 
 # Guidelines for Internal Maintainers
 
 > To standardize workflow across multiple repositories, please follow these guidelines before opening issue, working on the issue, or making pull requests.
+
+> Assigned **developers** may jump to [here](#solving-issue-workflow)
 
 ## All About Issues Management
 
