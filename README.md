@@ -73,6 +73,8 @@ The entries in issues tab (menu) at each repository represents what needs to be 
 
 ---
 
+---
+
 ## Solving Issue Workflow
 
 ### Starting Steps
